@@ -1,3 +1,0 @@
-test
-select users test1
-for test1
